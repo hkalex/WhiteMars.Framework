@@ -1,0 +1,10 @@
+/home/alex/MonoDevelopProjects/TestSolution/WhiteMars.Framework/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/MonoDevelopProjects/TestSolution/WhiteMars.Framework/bin/Debug/MultiTenants/TenantMeta_Template.xml
+/home/alex/MonoDevelopProjects/TestSolution/WhiteMars.Framework/bin/Debug/WhiteMars.Framework.dll.config
+/home/alex/MonoDevelopProjects/TestSolution/WhiteMars.Framework/bin/Debug/WhiteMars.Framework.dll.mdb
+/home/alex/MonoDevelopProjects/TestSolution/WhiteMars.Framework/bin/Debug/WhiteMars.Framework.dll
+/home/alex/MonoDevelopProjects/TestSolution/WhiteMars.Framework/obj/Debug/WhiteMars.Framework.dll
+/home/alex/MonoDevelopProjects/TestSolution/WhiteMars.Framework/obj/Debug/WhiteMars.Framework.dll.mdb
+/home/alex/MonoDevelopProjects/TestSolution/WhiteMars.Framework/bin/Debug/Microsoft.Practices.Unity.dll
+/home/alex/MonoDevelopProjects/TestSolution/WhiteMars.Framework/bin/Debug/Microsoft.Practices.Unity.Configuration.dll
+/home/alex/MonoDevelopProjects/TestSolution/WhiteMars.Framework/bin/Debug/Microsoft.Practices.ServiceLocation.dll

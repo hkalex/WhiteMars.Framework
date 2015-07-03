@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TenantMetaCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.whitemars.com/xmlnamespaces/WhiteMars.Framework/TenantMeta">
+  <TenantMeta>
+    <UniqueUrl>solar.whitemars.com.au</UniqueUrl>
+    <DbConnectionString>xxx</DbConnectionString>
+    <DbProvider>System.Sql.SqlProvider</DbProvider>
+    <CommandTimeout>100</CommandTimeout>
+  </TenantMeta>
+  <TenantMeta>
+    <UniqueUrl>lunar.whitemars.com.au</UniqueUrl>
+    <DbConnectionString>xxx</DbConnectionString>
+    <DbProvider>System.Sql.SqlProvider</DbProvider>
+    <CommandTimeout>100</CommandTimeout>
+  </TenantMeta>
+</TenantMetaCollection>

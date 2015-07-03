@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="WhiteMars.Framework.UnitTest/WhiteMars.Framework.UnitTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhiteMars.Framework.UnitTest/WhiteMarsApplicationTest.cs">
+    <Files>
+      <File FileName="WhiteMars.Framework.UnitTest/MultiTenants/TenantMetaCollectionTest.cs" Line="10" Column="9" />
+      <File FileName="WhiteMars.Framework.UnitTest/WhiteMarsApplicationTest.cs" Line="14" Column="28" />
+      <File FileName="WhiteMars.Framework/MultiTenants/TenantMetaCollection.cs" Line="129" Column="88" />
+      <File FileName="WhiteMars.Framework.UnitTest/MultiTenants/TenantMeta.xml" Line="10" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WhiteMars.Framework" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="WhiteMars.Framework" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/alex/MonoDevelopProjects/TestSolution/WhiteMars.Framework/Configurations/WhiteMarsAppConfig.cs" line="16" column="13" />
+      <Breakpoint file="/home/alex/MonoDevelopProjects/TestSolution/WhiteMars.Framework/Configuration/WhiteMarsAppConfig.cs" line="16" column="17" />
+      <Breakpoint file="/home/alex/MonoDevelopProjects/TestSolution/WhiteMars.Framework/Configuration/WhiteMarsAppConfig.cs" line="26" column="15" />
+      <Breakpoint file="/home/alex/MonoDevelopProjects/TestSolution/WhiteMars.Framework/IoC/ServiceContainer.cs" line="36" column="17" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

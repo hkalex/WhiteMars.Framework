@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteMars.Framework", "WhiteMars.Framework\WhiteMars.Framework.csproj", "{7527CC91-6CB3-4F35-853B-E3F2ED0A891F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{DBBC452C-B7CB-4036-BE48-AEAF0696EAE0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microsoft Unity 3.0", "Microsoft Unity 3.0", "{8AE9BD6E-EBAD-4588-A3E7-F3A7113E447A}"
+	ProjectSection(SolutionItems) = preProject
+		lib\Microsoft Unity 3.0\Microsoft.Practices.ServiceLocation.dll = lib\Microsoft Unity 3.0\Microsoft.Practices.ServiceLocation.dll
+		lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.Configuration.dll = lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.Configuration.dll
+		lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.dll = lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.dll
+		lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.Interception.Configuration.dll = lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.Interception.Configuration.dll
+		lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.Interception.dll = lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.Interception.dll
+		lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.Mvc.dll = lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.Mvc.dll
+		lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.NetCore.dll = lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.NetCore.dll
+		lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.NetCore.pri = lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.NetCore.pri
+		lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.WebApi.dll = lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.WebApi.dll
+		lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.WindowsPhone.dll = lib\Microsoft Unity 3.0\Microsoft.Practices.Unity.WindowsPhone.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteMars.Framework.UnitTest", "WhiteMars.Framework.UnitTest\WhiteMars.Framework.UnitTest.csproj", "{6826620A-4BC8-4041-8971-F67D5A02B5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6826620A-4BC8-4041-8971-F67D5A02B5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6826620A-4BC8-4041-8971-F67D5A02B5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6826620A-4BC8-4041-8971-F67D5A02B5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6826620A-4BC8-4041-8971-F67D5A02B5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7527CC91-6CB3-4F35-853B-E3F2ED0A891F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7527CC91-6CB3-4F35-853B-E3F2ED0A891F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7527CC91-6CB3-4F35-853B-E3F2ED0A891F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7527CC91-6CB3-4F35-853B-E3F2ED0A891F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8AE9BD6E-EBAD-4588-A3E7-F3A7113E447A} = {DBBC452C-B7CB-4036-BE48-AEAF0696EAE0}
+	EndGlobalSection
+EndGlobal
